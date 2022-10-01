@@ -26,6 +26,8 @@ def decrypt():
 
         text2.insert(END,decrypt)
 
+        #hello
+
     # error box or invalid box
     elif password=="":
         messagebox.showerror("encryption","Input Password")
@@ -96,7 +98,7 @@ def main_screen():
     Button(text="ENCRYPT",height="2",width=23,bg="#ed3833",fg="white",bd=0,command=encrypt).place(x=10,y=250)
     Button(text="DECRYPT",height="2",width=23,bg="#00bd56",fg="white",bd=0,command=decrypt).place(x=200,y=250)
     Button(text="RESET",height="2",width=50,bg="#1089ff",fg="white",bd=0,command=reset).place(x=10,y=300)
-    
+
     screen.mainloop()
 
 main_screen()

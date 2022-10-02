@@ -12,3 +12,6 @@ Keep privacy and feel secure when sending communications.
 
 
 Cryptography is a means of securing information and communications by using codes, ensuring that only those for whom the information is meant can read and interpret it. Encryption and decryption fall under this category.
+
+
+![image](https://user-images.githubusercontent.com/83784213/193444648-3ff40ec3-803b-4846-91ef-d689b41f2158.png)
